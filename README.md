@@ -1,2 +1,3 @@
 # gitDemo
 gitmoji
+gpgsign
