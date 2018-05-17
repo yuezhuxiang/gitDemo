@@ -2,3 +2,4 @@
 gitmoji
 gpgsign
 sign
+gpg sign
